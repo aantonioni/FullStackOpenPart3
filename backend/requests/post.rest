@@ -1,0 +1,7 @@
+POST https://red-shadow-3677.fly.dev/api/persons
+Content-Type: application/json
+
+{ 
+    "name": "Bob Bobson", 
+    "number": "987-6543"
+}
